@@ -286,14 +286,6 @@ main {
 
 
 
-
-
-
-
-
-
-
-
 /* ==========================
    CARROSSEL
 ========================== */
@@ -388,7 +380,7 @@ text-align: center;
 }
 
 .contato h3 {
-  font-size: 28px;
+  font-size: 50px;
   margin-bottom: 15px;
 }
 
@@ -411,12 +403,13 @@ text-align: center;
   transition: transform 0.3s ease, color 0.3s ease;
 }
 
-.redes-sociais a:hover { transform: scale(1.2); }
+.redes-sociais a:hover { transform: scale(4.4); }
 .redes-sociais a.github:hover { color: #333; }
 .redes-sociais a.linkedin:hover { color: #0a66c2; }
 .redes-sociais a.instagram:hover { color: #e1306c; }
+.redes-sociais a.gmail:hover {color: red; }
 
-.redes-sociais svg { width: 40px; height: 50px; }
+.redes-sociais svg { width: 60px; height: 70px; }
 
 /* ==========================
    RESPONSIVO
@@ -435,7 +428,7 @@ text-align: center;
   .card, .historia, .box-visao, .descricao-projeto { margin: 10px; padding: 10px; }
   .item, .curso { width: 100%; }
   .conteudo { flex-direction: column; gap: 10px; }
-  nav ul { flex-direction: column; gap: 10px; }
+  nav ul {  gap: 10px; }
   header { height: 50px; padding: 0 10px; }
   .carrossel { height: 200px; }
   .descricao-projeto { padding: 15px; }
