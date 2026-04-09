@@ -51,5 +51,6 @@ Acesse o portifolio - https://eduarda-m0.github.io/Portifolio_/
 
 ## Contato
 Gmail= c.eduardamoreira09@gmail.com
-Linkedin= www.linkedin.com/in/eduarda-moreira091323
+Linkedin= www.linkedin.com/in/eduarda-moreira091323.
+
 O rodapé inclui links para GitHub, LinkedIn e Instagram.
