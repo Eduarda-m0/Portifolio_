@@ -47,6 +47,12 @@ Este site apresenta um perfil pessoal e profissional. A página foi criada como 
 - O site é estático e não requer servidor.
 - É recomendado usar um navegador moderno para melhor visualização.
 
+Acesse o portifolio - https://eduarda-m0.github.io/Portifolio_/
+
+Contato:
+Gmail= c.eduardamoreira09@gmail.com
+Linkedin= www.linkedin.com/in/eduarda-moreira091323
+
 ## Contato
 
 O rodapé inclui links para GitHub, LinkedIn e Instagram.
